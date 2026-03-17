@@ -1,8 +1,8 @@
-# Honeypot Intrusion Detection System
+# Network Honeypot System
 
 ## Overview
 
-The Honeypot Intrusion Detection System is a defensive cybersecurity simulation project designed to monitor, capture, and analyze malicious connection attempts targeting network services.
+The Network Honeypot System is a defensive cybersecurity simulation project designed to monitor, capture, and analyze malicious connection attempts targeting network services.
 
 This project emulates a vulnerable SSH-like service to attract attackers, log their activities, and generate actionable security intelligence.
 It demonstrates real-world blue-team concepts such as attack surface exposure, credential harvesting detection, brute-force identification, and incident reporting.
